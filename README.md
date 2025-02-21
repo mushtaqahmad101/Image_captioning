@@ -1,19 +1,19 @@
-# 🖼️ Image Captioning with BLIP and Gradio  
+# 🖼Image Captioning with BLIP and Gradio  
 
 This project implements an **image captioning** system using **Salesforce's BLIP model**, which generates meaningful captions from images. It utilizes **Hugging Face Transformers**, **Gradio**, and **PIL** for seamless image processing and caption generation.  
 
 ---
 
-## 🚀 Features  
+##  Features  
 
-✅ **BLIP-based Image Captioning** – Generates high-quality captions for uploaded images.  
-✅ **User-Friendly Interface** – Built with **Gradio** for easy interaction.  
-✅ **Pretrained Model** – Uses `Salesforce/blip-image-captioning-base` for accurate captioning.  
-✅ **Easy Deployment** – Can be launched as a web-based application.  
+**BLIP-based Image Captioning** – Generates high-quality captions for uploaded images.  
+ **User-Friendly Interface** – Built with **Gradio** for easy interaction.  
+**Pretrained Model** – Uses `Salesforce/blip-image-captioning-base` for accurate captioning.  
+**Easy Deployment** – Can be launched as a web-based application.  
 
 ---
 
-## 📥 Clone and Install the Project  
+## Clone and Install the Project  
 
 Follow the steps below to set up and run this project on your system.  
 
