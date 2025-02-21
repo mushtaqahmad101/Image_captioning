@@ -42,11 +42,13 @@
         
         <h2>Installation</h2>
         <p>Follow these steps to set up the project on your local machine:</p>
-        <pre><code>git clone https://github.com/mushtaqahmad101/Image_captioning.git
+        <pre><code>
+git clone https://github.com/mushtaqahmad101/Image_captioning.git
 cd Image_captioning
 python -m venv venv
 source venv/bin/activate  # On Windows use venv\Scripts\activate
-pip install -r requirements.txt</code></pre>
+pip install -r requirements.txt
+        </code></pre>
         
         <h2>Usage</h2>
         <p>Run the Gradio app with:</p>
