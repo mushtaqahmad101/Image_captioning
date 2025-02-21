@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Flask Image Captioning - README</title>
     <style>
         body {
@@ -54,11 +50,11 @@ pip install -r requirements.txt</code></pre>
         <p>This will launch a web-based interface where you can upload images and receive captions.</p>
         
         <h2>Project Structure</h2>
-        <pre><code>.
-├── captioning.py       # Contains the BLIP image captioning logic
-├── gradio_app.py       # Launches the Gradio interface
-├── requirements.txt    # Required dependencies
-├── README.html         # Project documentation</code></pre>
+        <pre><code>.<br>
+├── captioning.py     <br>  # Contains the BLIP image captioning logic
+├── gradio_app.py       <br># Launches the Gradio interface
+├── requirements.txt   <br> # Required dependencies
+├── README.html         <br># Project documentation</code></pre>
         
         <h2>License</h2>
         <p>MIT License</p>
