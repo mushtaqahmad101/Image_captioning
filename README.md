@@ -25,6 +25,7 @@
             background: #eee;
             padding: 5px;
             border-radius: 5px;
+            font-family: monospace;
         }
         pre {
             background: #eee;
@@ -44,20 +45,20 @@
         <pre><code>git clone https://github.com/mushtaqahmad101/Image_captioning.git
 cd Image_captioning
 python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+source venv/bin/activate  # On Windows use venv\Scripts\activate
 pip install -r requirements.txt</code></pre>
         
         <h2>Usage</h2>
         <p>Run the Gradio app with:</p>
         <pre><code>python gradio_app.py</code></pre>
-        <p>It will launch a web-based interface where you can upload images and receive captions.</p>
+        <p>This will launch a web-based interface where you can upload images and receive captions.</p>
         
         <h2>Project Structure</h2>
         <pre><code>.
-├── captioning.py  # Contains the BLIP image captioning logic
-├── gradio_app.py  # Launches the Gradio interface
-├── requirements.txt  # Required dependencies
-├── README.html  # Project documentation</code></pre>
+├── captioning.py       # Contains the BLIP image captioning logic
+├── gradio_app.py       # Launches the Gradio interface
+├── requirements.txt    # Required dependencies
+├── README.html         # Project documentation</code></pre>
         
         <h2>License</h2>
         <p>MIT License</p>
